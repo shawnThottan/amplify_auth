@@ -2,7 +2,7 @@ import {
     Authenticator,
     SelectField,
   } from "@aws-amplify/ui-react";
-  import { SPORTS } from "../utils/constants";
+  import { SPORTS } from "../constants";
   
 const SignUpForm = (favoriteSportRef) => (
     <>
