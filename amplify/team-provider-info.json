@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dynmedia-dev-121333-authRole",
+      "UnauthRoleArn": "arn:aws:iam::303821244765:role/amplify-dynmedia-dev-121333-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::303821244765:role/amplify-dynmedia-dev-121333-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-dynmedia-dev-121333-deployment",
+      "UnauthRoleName": "amplify-dynmedia-dev-121333-unauthRole",
+      "StackName": "amplify-dynmedia-dev-121333",
+      "StackId": "arn:aws:cloudformation:eu-north-1:303821244765:stack/amplify-dynmedia-dev-121333/35c4b070-c558-11ed-9d04-0a1d14015b74",
+      "AmplifyAppId": "dzqdjau4wgnyc"
+    },
+    "categories": {
+      "auth": {
+        "dynmediac27999d8": {}
+      }
+    }
+  }
+}
